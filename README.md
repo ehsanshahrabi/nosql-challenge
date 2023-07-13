@@ -4,7 +4,8 @@ Food critics and journalists face the ever-challenging task of finding fresh est
 
 his repository contains two Jupyter notebooks that meticulously guide you through our analysis.
 
-NoSQL_setup_starter.ipynb: Here, you'll witness how we paved our way into the world of NoSQL databases, imported our data, and prepared it for the impending examination.
+#### NoSQL_setup_starter.ipynb: 
+Here, you'll witness how we paved our way into the world of NoSQL databases, imported our data, and prepared it for the impending examination.
 
 NoSQL_analysis_starter.ipynb: This notebook brims with exploratory analysis. It delves deep into the dataset and uncovers answers to intriguing questions that will aid the Eat Safe, Love team in choosing the bestestablishments for their next features.
 

@@ -1,4 +1,4 @@
-#Eat Safe, Love - UK Food Hygiene Ratings Analysis
+# Eat Safe, Love - UK Food Hygiene Ratings Analysis
 
 Food critics and journalists face the ever-challenging task of finding fresh establishments to cover in their articles. With this in mind, we embarked on a journey to analyze the food hygiene ratings of various eateries across the United Kingdom. We believe that the ratings, evaluated and presented by the UK Food Standards Agency, will serve as a valuable resource for the team of the food magazine, Eat Safe, Love.
 
